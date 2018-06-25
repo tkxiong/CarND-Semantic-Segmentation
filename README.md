@@ -61,21 +61,23 @@ Loss function: Cross-entropy Optimizer: Adam optimizer
 
 ### Results
 
-![](images/images1.png)
+![](images/result1.png)
 
-![](images/images2.png)
+![](images/result2.png)
 
-![](images/images3.png)
+![](images/result3.png)
 
-![](images/images4.png)
+![](images/result3.png)
 
-![](images/images5.png)
+![](images/result4.png)
 
-![](images/images6.png)
+![](images/result5.png)
 
-![](images/images7.png)
+![](images/result6.png)
 
-![](images/images8.png)
+![](images/result7.png)
+
+![](images/result8.png)
 
 ### Setup
 ##### GPU
